@@ -1,0 +1,4 @@
+n = float(input())
+
+fh = ((9*n)/5)+32
+print("{:.1f}".format(fh))
