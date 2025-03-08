@@ -1,0 +1,8 @@
+age = int(input("enter the age"))
+if (age>=18):
+    print("WELCOME TO THE WEBSITE")
+    print("HELLOO")
+elif (age>=60):
+    print("you are too old for this website")
+else:
+    print("you are too
