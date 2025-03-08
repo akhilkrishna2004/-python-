@@ -1,0 +1,2 @@
+for i in range(1, 11, 2): #first for starting point,second point for ending point& third point for increment
+    print(i)
